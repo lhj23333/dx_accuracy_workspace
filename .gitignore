@@ -1,0 +1,6 @@
+/models/
+/datasets/
+/downloads/
+/results/
+/.accuracy_results-*.tmp
+__pycache__/
